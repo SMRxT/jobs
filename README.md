@@ -23,15 +23,16 @@ Technology Stack
 * Angular.js
 * Kubernetes
 * RabbitMQ
-* Postgres 9.4+
+* Redis
+* Postgres 9.5+
 * Docker
 * Github
 * Circle CI
 * Slack
 * Ruby
 * JavaScript
-* Haskell
-* Clojure
+* Elm
+* Graylog2
 
 
 Jobs
